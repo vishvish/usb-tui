@@ -3,6 +3,8 @@
 A keyboard-driven terminal browser for connected USB devices on macOS. It uses
 C, ncurses, and IOKit, and builds with standard Makefiles on macOS and with GNU Make.
 
+![usb-tui showing connected USB devices](screenshot.png)
+
 ## Build and run
 
 ```sh
